@@ -26,7 +26,7 @@ Notify as a Service is an advanced notification system built using ASP.NET Core 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/thisisnabi/Notification.git
+git clone https://github.com/Dubem007/Notify.Service.git
 ```
 
 ## Give a Star! ⭐
